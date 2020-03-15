@@ -1,4 +1,2 @@
 language: python
   
-script:
-  - test_point_manager.py
